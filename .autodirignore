@@ -1,0 +1,5 @@
+# Add extra file/folder names to ignore during autodir scanning.
+# One pattern per line. Lines starting with # are comments.
+# Example:
+# my_secret_folder
+# temp_data

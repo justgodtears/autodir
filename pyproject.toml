@@ -1,0 +1,11 @@
+[project]
+name = "autodir"
+version = "0.1.0"
+requires-python = ">=3.9"
+
+[project.scripts]
+autodir = "autodir.cli:main"
+
+[build-system]
+requires = ["setuptools"]
+build-backend = "setuptools.build_meta"
